@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-12-31T14:31:31.293Z</updated>
+  <updated>2021-12-31T14:52:27.704Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Heart</title>
+    <link href="http://example.com/2021/12/31/Heart/"/>
+    <id>http://example.com/2021/12/31/Heart/</id>
+    <published>2021-12-31T14:50:08.000Z</published>
+    <updated>2021-12-31T14:52:27.704Z</updated>
+    
+    <content type="html"><![CDATA[<p>安静吧，我的心 让别离的时间甜柔吧</p><p>让它不是个死亡而是圆满</p><p>让爱恋融入记忆 痛苦融入诗歌吧</p><p>让穿越天空的飞翔在巢上敛翼中终止</p><p>让你双手的最后的接触 像夜中花朵一样的温柔</p><p>站住一会吧 </p><p>呵 “美丽的结局”</p><p>用沉默说出你最后的话语</p><p>我向你鞠躬，举起我的灯来照亮你的归途</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;安静吧，我的心 让别离的时间甜柔吧&lt;/p&gt;
+&lt;p&gt;让它不是个死亡而是圆满&lt;/p&gt;
+&lt;p&gt;让爱恋融入记忆 痛苦融入诗歌吧&lt;/p&gt;
+&lt;p&gt;让穿越天空的飞翔在巢上敛翼中终止&lt;/p&gt;
+&lt;p&gt;让你双手的最后的接触 像夜中花朵一样的温柔&lt;/p&gt;
+&lt;p&gt;站住一会吧 &lt;/p&gt;
+&lt;p&gt;呵 “</summary>
+      
+    
+    
+    
+    
+    <category term="Quiet" scheme="http://example.com/tags/Quiet/"/>
+    
+  </entry>
   
   <entry>
     <title>I</title>
